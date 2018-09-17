@@ -1,0 +1,31 @@
+rect
+{
+	fill:blue;
+}
+
+path
+{
+	stroke:red; 
+	stroke-width:1; 
+	fill:none;
+}
+
+path.area
+{
+	stroke:green; 
+	stroke-width:1; 
+	fill:green;
+}
+
+line
+{
+	stroke:red; 
+	stroke-width:1; 
+}
+
+circle
+{
+	stroke:black; 
+	stroke-width:2; 
+	fill:black;
+}
